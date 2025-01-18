@@ -69,13 +69,10 @@ fill the I/O gap.
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 
 ```BibTeX
-@misc{ning2025gptmontecarlolanguage,
-      title={GPT as a Monte Carlo Language Tree: A Probabilistic Perspective}, 
-      author={Kun-Peng Ning and Jia-Yu Yao and Yu-Yang Liu and Mu-Nan Ning and Li Yuan},
-      year={2025},
-      eprint={2501.07641},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2501.07641}, 
+@article{ning2025gpt,
+  title={GPT as a Monte Carlo Language Tree: A Probabilistic Perspective},
+  author={Ning, Kun-Peng and Yao, Jia-Yu and Liu, Yu-Yang and Ning, Mu-Nan and Yuan, Li},
+  journal={arXiv preprint arXiv:2501.07641},
+  year={2025}
 }
 ```
